@@ -1,0 +1,7 @@
+googledrivedownloader
+torch==1.12.0
+torchvision
+numpy
+pytest
+tensorboard
+imageio
