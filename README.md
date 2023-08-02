@@ -12,9 +12,9 @@ scores.
 
 In this assignment, we will look at meta-learning for few shot classification: 
 1. Learn how to process and partition data for meta learning problems, where training
-is done over a distribution of training tasks p(T ).
+is done over a distribution of training tasks.
 2. Implement and train memory augmented neural networks, a black-box meta-learner
-that uses a recurrent neural network [1].
+that uses a recurrent neural network.
 3. Analyze the learning performance for different size problems.
 4. Experiment with model parameters and explore how they improve performance.
 
